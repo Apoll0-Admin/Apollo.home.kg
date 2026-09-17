@@ -1,0 +1,37 @@
+/* Something not working counter [1] */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+body {
+  background-color: #252525;
+}
+
+h1, h2, h3, h4, h5, h6, a, p, button {
+  font-family: Outfit;
+  color: #FFFFFF;
+  font-weight: 200;
+}
+
+hr {
+  color: #FFFFFF;
+  background-color: #FFFFFF;
+  height: 4px;
+}
+
+#icon {
+  width: 164px;
+}
+
+#certain {
+  width: 164px;
+}
+
+iframe {
+  border-radius: 7px;
+  border: none;
+}
+
+button {
+  border-radius: 5px;
+  border: none;
+  background-color: #404040;
+}
